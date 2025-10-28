@@ -1,6 +1,6 @@
 # Play to Grade
 
-<img src="https://github.com/windweller/play-to-grade/blob/main/images/thumbnail.png?raw=true" style='height: 295.6px; width: 175.4px;'>
+<img src="https://github.com/windweller/play-to-grade/blob/main/images/thumbnail.png?raw=true" width="50%">
 
 Paper: [Play to Grade: Testing Coding Games as Classifying Markov Decision Process](https://arxiv.org/abs/2110.14615)
 
